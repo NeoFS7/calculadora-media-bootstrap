@@ -1,0 +1,11 @@
+body {
+    background-color: #0f0f13;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+    border: none;
+    background-color: rgb(100, 30, 30);
+    color: aliceblue;
+}
